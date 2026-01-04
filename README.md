@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ThorBley
-- 👀 I’m interested in Bloxstrap
-- 🌱 I’m currently learning Unknown
-- 💞️ I’m looking to collaborate on -_-
-- 📫 How to reach me to Unknown
-- 😄 Pronouns: Funny
-- ⚡ Fun fact: WHAT THE HECK
+- 👀 I’m interested in Playing GD And Making Roblox Games
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: Idk
+- 😄 Pronouns: Cool
+- ⚡ Fun fact: Nothing
 
 <!---
 ThorBley/ThorBley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
